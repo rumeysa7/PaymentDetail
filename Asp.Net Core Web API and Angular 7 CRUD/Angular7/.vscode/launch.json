@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open payment-detail.component.html",
+            "file": "c:\\Users\\RA\\source\\repos\\Zorrrrrrrrrrrrrr\\Angular7\\src\\app\\payment-details\\payment-detail\\payment-detail.component.html"
+        }
+    ]
+}
